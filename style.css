@@ -9,7 +9,7 @@ html, body {
 }
 
 #headline {
-  font-size: 45px;
+  font-size: 44px;
   margin-bottom: 40px;
   font-weight: bold;
 }
@@ -22,7 +22,7 @@ html, body {
 }
 
 button.choice {
-  font-size: 42px;
+  font-size: 38px;
   padding: 15px 30px;
   border-radius: 12px;
   border: none;
